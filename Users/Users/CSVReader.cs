@@ -13,7 +13,6 @@ namespace Users
     {
         List<User> users = new List<User>();
         List<Result> results = new List<Result>();
-        //File not found, Missing filedException
         /// <summary>
         /// Reads the data from csv file
         /// </summary>
